@@ -2,7 +2,8 @@
 This repository publicly houses my slides from selected talks, allowing for grater accessibility.
 |Talk Date|Conference|Slides|
 |----|----------|------|
-|11/17/2021|N/A|[*A Boundary of White Inclusion*](https://github.com/asdurso/Talks-and-Workshops/blob/main/A-Boundary-of-White-Inclusion.pdf)|||
+|12/06/2021|[Lake Forest Academy](https://www.lfanet.org/about-us/mission-leadership)|[*A Boundary of White Inclusion (Appended)*](https://github.com/asdurso/Talks-and-Workshops/blob/main/Appended-A-Boundary-of-White-Inclusion.pdf)|||
+|10/29/2021|[University of Indiana Bloomington American Politics Workshop](https://polisci.indiana.edu/research/centers-workshops/center-on-american-politics.html)|[*A Boundary of White Inclusion*](https://github.com/asdurso/Talks-and-Workshops/blob/main/A-Boundary-of-White-Inclusion.pdf)|||
 |08/30/2021|[Minority Politcs Online Seminar Series](https://minoritypolitics.netlify.app/)|[*A Boundary of White Inclusion*](https://github.com/asdurso/Talks-and-Workshops/blob/main/MPOSS-Talk.pdf)|||
 |08/04/2021|[Northwestern University IT Research Consulting Services Workshops](https://github.com/nuitrcs/rworkshops)|[*Creating Circular Graphs*](https://github.com/asdurso/How-to-Create-Circular-Graphs-in-R)|||
 |08/02/2021|[Northwestern University IT Research Consulting Services Workshops](https://github.com/nuitrcs/rworkshops)|[*Creating Directed Network Maps*](https://github.com/asdurso/How-to-Create-Directed-Network-Maps-in-R)|||
