@@ -2,7 +2,8 @@
 This repository publicly houses my slides from selected talks, allowing for grater accessibility.
 |Talk Date|Conference|Slides|
 |----|----------|------|
-|02/04/2022||[*A Boundary of White Inclusion*](https://github.com/asdurso/Talks-and-Workshops/blob/main/A-Boundary-of-White-Inclusion-QSS.pdf)|
+|02/04/2022|[Program in Quantitative Social Science - Dartmouth College](https://qss.dartmouth.edu/)|[*A Boundary of White Inclusion*](https://github.com/asdurso/Talks-and-Workshops/blob/main/A-Boundary-of-White-Inclusion-QSS.pdf)|
+|11/17/2021|[Political Science Department - Stony Brook Univeristy](https://www.stonybrook.edu/polsci/)|[*A Boundary of White Inclusion*](https://github.com/asdurso/Talks-and-Workshops/blob/main/A-Boundary-of-White-Inclusion.pdf)|
 |12/06/2021|[Lake Forest Academy](https://www.lfanet.org/about-us/mission-leadership)|[*A Boundary of White Inclusion (Appended)*](https://github.com/asdurso/Talks-and-Workshops/blob/main/Appended-A-Boundary-of-White-Inclusion.pdf)|||
 |10/29/2021|[University of Indiana Bloomington American Politics Workshop](https://polisci.indiana.edu/research/centers-workshops/center-on-american-politics.html)|[*A Boundary of White Inclusion*](https://github.com/asdurso/Talks-and-Workshops/blob/main/A-Boundary-of-White-Inclusion.pdf)|||
 |08/30/2021|[Minority Politcs Online Seminar Series](https://minoritypolitics.netlify.app/)|[*A Boundary of White Inclusion*](https://github.com/asdurso/Talks-and-Workshops/blob/main/MPOSS-Talk.pdf)|||
